@@ -1,6 +1,6 @@
 # First experience as Frontend Engineer at Maxima 2021
 
-`College Student` `#ReactJS` `#Frontend Engineer`
+`#Campus Events` `#ReactJS` `#Frontend Engineer`
 
 > Platform: Website
 > Website: [[https://maxima.umn.ac.id/](https://maxima.umn.ac.id/)]
