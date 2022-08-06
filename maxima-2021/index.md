@@ -2,9 +2,9 @@
 
 `#CampusEvents` `#ReactJS` `#FrontendEngineer`
 
-Platform: Website <br />
-Website: [[https://maxima.umn.ac.id/](https://maxima.umn.ac.id/)]<br />
-Tech Stacks: `ReactJS, Chakra UI, Material UI, Node.js, Express.js, MySQL, MongoDB`<br />
+Platform: Website  
+Website: [[https://maxima.umn.ac.id/](https://maxima.umn.ac.id/)]  
+Tech Stacks: `ReactJS, Chakra UI, Material UI, Node.js, Express.js, MySQL, MongoDB`
 
 Around May 2020 I had the opportunity to become a frontend engineer at the Maxima 2021 activity. Maxima is the second largest student activity at Multimedia Nusantara University, Tangerang. This activity is intended for first year students to explore various activities and extracurricular activities on campus. To be part of the website development team at Maxima 2021 requires several requirements which in my opinion were quite difficult at the time, but I am happy to have passed the selection and can join the frontend subdivision.
 
